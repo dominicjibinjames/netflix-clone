@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.firebase",
+    "\\public",
+    "\\src",
+    "\\src\\app",
+    "\\src\\features",
+    "\\src\\features\\counter",
+    "\\src\\screens"
+  ],
+  "SelectedNode": "\\src\\screens\\LoginScreen.js",
+  "PreviewInSolutionExplorer": false
+}
